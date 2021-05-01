@@ -5,7 +5,7 @@
 Project By:<br>
 Ian Hennessey<br>
 GitHub Profile:  <https://github.com/atleastitsanethosman><br>
-Project GitHub Repository: <https://github.com/atleastitsanethosman/workdayschedulerhw5/settings/pages><br>
+Project GitHub Repository: <https://github.com/atleastitsanethosman/workdayschedulerhw5><br>
 Project URL: <https://atleastitsanethosman.github.io/workdayschedulerhw5/><br>
 
 ## Project Description
