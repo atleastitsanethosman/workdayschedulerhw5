@@ -7,11 +7,9 @@ $("#currentDay").text(today.format("dddd, MMM Do, YYYY"));
 
 // variable to retrieve current hour
 var currentHour = moment().format("H");
-console.log(currentHour);
 
 //code to make time blocks and append to the container contained in the HTML.
-for ( var i=9; i < 18; i++){
-    console.log(i);
+for ( var i=9; i < 18; i++) {
     var timeBlock = $('<div>');
     // adds color formating for the rows based on where they are relative to current time.
     timeBlock.addClass("row time-block");
