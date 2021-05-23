@@ -25,8 +25,10 @@ The goal of this project was to create a day planner with the ability to make no
 4. Save buttons that expand the save icon when hovering over the button that write data from the events to local storage when pressed.
 
 ## Citations:<br>
-Font Awesome <https://fontawesome.com/><br>
-Bootstrap <https://getbootstrap.com/><br>
 Moment <https://momentjs.com/><br>
 jQuery <https://jquery.com/><br>
 Google Fonts <https://fonts.google.com/><br>
+
+## License:<br>
+Copyright (c) 2021 Ian Hennessey
+Licensed under the [MIT LICENSE](LICENSE)
